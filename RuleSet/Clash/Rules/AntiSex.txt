@@ -1,1 +1,11 @@
+# anti sex
 DOMAIN-KEYWORD,pron
+DOMAIN-KEYWORD,pronhub
+DOMAIN-KEYWORD,91pron
+DOMAIN,pronhub.com
+DOMAIN,51cf.fun
+DOMAIN,javbus.com
+DOMAIN-SUFFIX,pronhub.com
+DOMAIN-SUFFIX,91pron.com
+DOMAIN-SUFFIX,51cf.fun
+DOMAIN-SUFFIX,javbus.com
