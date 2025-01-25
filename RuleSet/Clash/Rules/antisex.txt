@@ -9,3 +9,5 @@ payload:
 - DOMAIN-SUFFIX,51cf.fun
 - DOMAIN-SUFFIX,91pron.com
 - DOMAIN-SUFFIX,javbus.com
+- DOMAIN-REGEX,.*pron.*
+- DOMAIN-REGEX,.*51cg.*
