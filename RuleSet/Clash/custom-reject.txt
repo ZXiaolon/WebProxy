@@ -1,4 +1,5 @@
 payload:
+# custom reject rules
 # anti-sex rule
 - DOMAIN-KEYWORD,pron
 - DOMAIN-KEYWORD,91pron

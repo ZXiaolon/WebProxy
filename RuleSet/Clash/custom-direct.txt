@@ -1,0 +1,5 @@
+payload:
+# custom direct rules
+# - DOMAIN,example.com
+# - PROCESS-NAME,com.miui.packageinstaller
+
