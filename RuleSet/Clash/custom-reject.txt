@@ -1,0 +1,23 @@
+payload:
+# anti-sex rule
+- DOMAIN-KEYWORD,pron
+- DOMAIN-KEYWORD,91pron
+- DOMAIN,pronhub.com
+- DOMAIN,51cf.fun
+- DOMAIN,javbus.com
+- DOMAIN-SUFFIX,pronhub.com
+- DOMAIN-SUFFIX,91pron.com
+- DOMAIN-SUFFIX,51cf.fun
+- DOMAIN-SUFFIX,91pron.com
+- DOMAIN-SUFFIX,javbus.com
+# clash for android不支持DOMAIN-REGEX
+# - DOMAIN-REGEX,.*pron.*
+# - DOMAIN-REGEX,.*51cg.*
+
+# xiaomi rule
+# - DOMAIN,api.installer.xiaomi.com
+# - DOMAIN,mpush-api.aliyun.com
+# - DOMAIN,tracking.miui.com
+- DOMAIN,check.engine.miui.com
+- PROCESS-NAME,com.lbe.security.miui
+- PROCESS-NAME,com.miui.packageinstaller
