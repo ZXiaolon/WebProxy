@@ -2,4 +2,4 @@ payload:
 # custom proxy rules
 # - DOMAIN,example.com
 # - PROCESS-NAME,com.miui.packageinstaller
-
+- DOMAIN,www.google.com
