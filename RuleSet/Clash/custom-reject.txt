@@ -15,10 +15,10 @@ payload:
 # - DOMAIN-REGEX,.*pron.*
 # - DOMAIN-REGEX,.*51cg.*
 
-# xiaomi rule
-# - DOMAIN,api.installer.xiaomi.com
-# - DOMAIN,mpush-api.aliyun.com
-# - DOMAIN,tracking.miui.com
+# anti xiaomi rule
 - DOMAIN,check.engine.miui.com
 - PROCESS-NAME,com.lbe.security.miui
 - PROCESS-NAME,com.miui.packageinstaller
+- DOMAIN,api.installer.xiaomi.com
+- DOMAIN,mpush-api.aliyun.com
+- DOMAIN,tracking.miui.com
